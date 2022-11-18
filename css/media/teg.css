@@ -1,0 +1,146 @@
+
+/*======================================WIDTH1024=================================
+@media(max-width: 1024px){
+    .menu-logo {
+        margin: 0px 470px 0px 0px;
+    }
+    .menu-content{
+        object-position: right;
+    }
+    .header-content{
+        width: 100%;
+    }
+    .main-content {
+        max-width: 100%;
+    }
+    .text-bord{
+        padding: 22px;
+    }
+    .main-with {
+        max-width: 100%;
+    }
+    .with-oborot{
+        display: flex;
+        margin: 35px 0px 0px 17px;
+    }
+    .with-oborot2 {
+        display: flex;
+        margin: -14px 0px 0px 641px;
+    
+    }
+    .with-text {
+        display: flex;
+        padding: 50px 0px 0px 0px;
+    }
+    .with-dr {
+        display: flex;
+        padding: 0px 0px 0px 538px;
+    }
+    .text-dr{
+        padding: 12px;
+      
+    }
+}
+
+
+/*======================================WIDTH725=================================
+@media(max-width: 768px){
+    .menu-logo {
+        margin: 0px 380px 0px 0px;
+    }
+    .menu-href:last-child{
+        margin: 0px 24px 0px 0px;
+    }
+    .elias-photo {
+        position: absolute;
+        width: 100%;
+        max-height: 260px;
+     }
+    .photo{
+        object-position: center;
+        margin: 200px 0px 0px 0px; 
+    }
+    .__container{
+        margin: 0px 50px 0px 50px;
+    }
+    .elieas-contact {
+    display: none;
+    }
+    .polosa-no-container{
+       display: none;
+    }
+    .polosa {
+        display: none;
+    }
+    .elias-elis {
+        margin: 34px 0px 0px 0px;
+        max-width: 100%;
+    }
+    .elieas-craft {  
+        max-width: 100%;
+        margin: 25px 0px 0px 0px;
+    }
+    .main-with{
+        padding: 378px 0px 0px 0px;
+       }
+       .with-oborot{
+        margin: 33px 0px 0px 17px;
+    }
+    .with-oborot2 {
+        margin: -16px 0px 0px 641px;
+    
+    }
+    .with-text {
+        display: flex;
+        
+    }
+    .with-dr {
+        display: flex;
+        padding: initial;
+        padding-left: 538px;
+    }
+}
+/*======================================WIDTH425=================================
+@media(max-width: 425px){
+    .menu-content{
+        margin: 32px 0px 0px -388px;
+    }
+    .photo{
+        margin: 300px 0px 0px 0px; 
+    }
+    .menu-item {
+        font-size: 14px;
+        display: flex;
+    }
+    .menu-href {
+        font-size: 14px;
+        display: flex;
+    }
+    .menu-href:last-child{
+        margin: 0px 10px 0px 0px;
+    }
+    .menu-logo {
+        margin: 0px 20px 0px 0px;
+    }
+    .photo {
+        max-width: 100%;
+        margin: 0px 50px 0px 0px;
+     }
+     .main-with{
+        padding: 378px 0px 0px 0px;
+       }
+       .with-oborot{
+        padding: 0px 0px 0px -6px;
+    }
+    .with-oborot2 {
+        display: none;
+    
+    }
+    .with-text {
+        display: flex;
+        
+    }
+    .with-dr {
+        padding: 0px 0px 0px 201px;
+    }
+}
