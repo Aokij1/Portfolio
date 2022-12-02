@@ -1,5 +1,5 @@
 body{
-    background: #282C33
+    background: #282C33;
 }
 .__container{
     width: 1027px;
@@ -237,16 +237,22 @@ body{
 }
 .projects-plit {
     border: 1px solid #ABB2BF;
-    width: 100%;
+    width: 30%;
     margin-bottom: 106px;
 }
 .projects-plit:not(first-child) {
     margin-right: 16px;
     margin-top: 48px;
 }
+.projects-plit:last-child {
+    padding-top: 0px;
+    margin-top: 0px;
+}
 .plit {
     height: auto;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 .plit-img {
     border-bottom: 1px solid #ABB2BF;
