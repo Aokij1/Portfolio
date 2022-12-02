@@ -52,10 +52,12 @@
     .projects-plit{
         flex: 0 1 47%;
     }
+    /*
     .projects-plit:last-child{
         flex: 1 1 100%;
         margin-bottom: 100px;
     }
+    */
     .projects-plit:not(last-child){
         margin-bottom: 20px;
     }
